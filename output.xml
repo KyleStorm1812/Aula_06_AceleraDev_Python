@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="8" time="0.451"><testcase classname="test_submit.TestChallenge10" file="test_submit.py" line="8" name="test_0" time="0.0972130298614502"><system-out>[2, 2, 2, 3, 3, 4, 5, 12]
+</system-out></testcase><testcase classname="test_submit.TestChallenge10" file="test_submit.py" line="14" name="test_01" time="0.0019092559814453125"><system-out>[2, 2, 2, 3, 3, 4, 5, 12]
+</system-out></testcase><testcase classname="test_submit.TestChallenge10" file="test_submit.py" line="20" name="test_1" time="0.0016407966613769531"><system-out>[3, 3, 3, 3, 2, 2, 2, 5, 5, 12, 12, 4]
+</system-out></testcase><testcase classname="test_submit.TestChallenge10" file="test_submit.py" line="26" name="test_2" time="0.0015707015991210938"><system-out>[3, 3, 3, 3, 2, 2, 2, 12, 12, 4, 5]
+</system-out></testcase><testcase classname="test_submit.TestChallenge10" file="test_submit.py" line="32" name="test_3" time="0.0018641948699951172"><system-out>[2, 2, 2, 3, 3, 4, 5, 12]
+</system-out></testcase><testcase classname="test_submit.TestChallenge10" file="test_submit.py" line="38" name="test_4" time="0.0018358230590820312"><system-out>[]
+</system-out></testcase><testcase classname="test_submit.TestChallenge10" file="test_submit.py" line="43" name="test_5" time="0.0016596317291259766"><system-out>[2, 2, 2, 4, 1]
+</system-out></testcase><testcase classname="test_submit.TestChallenge10" file="test_submit.py" line="48" name="test_6" time="0.0021245479583740234"><system-out>[6, 6, 6, 6, 6, 6, 2, 2, 2, 4, 1]
+</system-out></testcase></testsuite>
